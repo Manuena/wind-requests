@@ -1,7 +1,7 @@
 init start
 	-- local SCRIPT_VERSION = '1.0.0'
 
-	local item = 'life ring' -- Can be a ring or an amulet
+	local item = 'axe ring' -- Can be a ring or an amulet
 
 	-- DO NOT EDIT BELOW THIS LINE
 	item = itemid(item)
